@@ -25,8 +25,6 @@
 </summary>
    <br>
 <p><strong>🚀 Tech Stack:</strong></p>
-<p>
-<strong>🚀 Tech Stack:</strong>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://spring.io/projects/spring-boot" target="_blank"><img width="30" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/spring.svg"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank"><img width="30" src="https://img.icons8.com/color/480/microsoft-sql-server.png"/></a></code>
@@ -35,7 +33,7 @@
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
 
-<strong>🌱 Looking forward to learn:</strong>
+<p><strong>🌱 Looking forward to learn:</strong></p>
 <code><a href="https://angular.io/" target="_blank"><img width="30" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/angular-icon.svg"/></a></code>
 <code><a href="https://reactnative.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
 
