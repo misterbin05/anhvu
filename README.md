@@ -53,21 +53,21 @@
 <br>
 <p align="center">
   <a href="https://github.com/misterbin05/THAT_WEB">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misterbin05&repo=THAT_WEB&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misterbin05&repo=THAT_WEB&theme=tokyonight" />
   </a>
   <a href="https://github.com/misterbin05/MonaSchool">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misterbin05&repo=MonaSchool&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misterbin05&repo=MonaSchool&theme=tokyonight" />
   </a>
   <a href="https://github.com/misterbin05/HYNEE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misterbin05&repo=HYNEE&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misterbin05&repo=HYNEE&theme=tokyonight" />
   </a>
   <a href="https://github.com/misterbin05/StoreSH">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misterbin05&repo=StoreSH&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misterbin05&repo=StoreSH&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misterbin05&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misterbin05&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
