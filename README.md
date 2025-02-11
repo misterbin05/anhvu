@@ -10,7 +10,7 @@
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
 
-<h3>Little facts about me 🧑</h3>
+<h3>Một số thông tin nhỏ về tôi 🧑</h3>
 
 - 🧞 Tôi là một người đam mê công nghệ.
 - 🔭 Tôi đang tìm kiếm cơ hội thực tập về Java Web Backend.
