@@ -1,28 +1,27 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Nguyen Huu Hoang</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,Ngo Anh Vu</h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=BackEnd+Web+Developer&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
   <em>
-    Myself <b>Huu Hoang</b>, a final year <b>Java Web</b> undergraduate from <b>FPT Polytechnic</b>, VietNam.<br>
+    Myself <b>Anh Vu</b>, a final year <b>Java Web</b> undergraduate from <b>FPT Polytechnic</b>, VietNam.<br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
 
-- 🧞 I'm a Tech Enthusiast since middle school.
-- 🔭 I’m currently looking for intership Java Web BackEnd.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Cricket.
+- 🧞 Tôi là một người đam mê công nghệ.
+- 🔭 Tôi đang tìm kiếm cơ hội thực tập về Java Web Backend.
+- ⚡ Tôi yêu thích thể thao, đặc biệt là gym.
 <br>
 
 ---
 
 <details>
 <summary>
-  ✨ Tech stack currently using:
+  ✨ Công nghệ đang sử dụng:
 </summary>
    <br>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
