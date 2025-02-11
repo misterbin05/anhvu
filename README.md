@@ -72,13 +72,13 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="mailto:huuhoang1807@gmail.com">
+  <a href="mailto:ngoanhvu0905@gmail.com">
     <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-   <a href="https://github.com/Hoang1807">
+   <a href="https://github.com/misterbin05">
     <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
   
-<p align="right">Created with 🧡 by <a href="https://github.com/Hoang1807">Huu Hoang</a></p>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=Hoang1807&label=Profile%20views&color=0e75b6&style=flat"/></p>
+<p align="right">Created with 🧡 by <a href="https://github.com/Hoang1807">Anh Vu</a></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=misterbin05&label=Profile%20views&color=0e75b6&style=flat"/></p>
