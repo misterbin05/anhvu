@@ -80,5 +80,5 @@
   </a>
   <br>
   
-<p align="right">Created with 🧡 by <a href="https://github.com/Hoang1807">Anh Vu</a></p>
-<p align="right"><img src="[https://komarev.com/ghpvc/?username=misterbin0](https://github.com/misterbin05)5&label=Profile%20views&color=0e75b6&style=flat"/></p>
+<p align="right">Created with 🧡 by <a href="https://github.com/misterbin05">Anh Vu</a></p>
+<p align="right"><img src="[https://github.com/misterbin05&label=Profile%20views&color=0e75b6&style=flat"/></p>
