@@ -1,12 +1,37 @@
-# # Hi 👋, Ngo Anh Vu
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>Chuyển động Hình Vuông</title>  
+    <link rel="stylesheet" href="styles.css">  
+</head>  
+<body>  
+    <div class="square"></div>  
+</body>  
+</html>
+body {  
+    display: flex;  
+    justify-content: center;  
+    align-items: center;  
+    height: 100vh;  
+    margin: 0;  
+    background-color: #f0f0f0;  
+}  
 
-## BackEnd Web Developer
+.square {  
+    width: 100px;  
+    height: 100px;  
+    background-color: #3498db;  
+    position: relative;  
+    animation: move 2s infinite alternate;  
+}  
 
-Myself **Anh Vu**, Java Web undergraduate from FPT Polytechnic, Vietnam.  
-_"---It's a difference of just one try between Success and Failure---"_  
-
-## Little facts about me 🤔  
-- 🧑‍💻 I'm a Tech Enthusiast since middle school.  
-- 🕵️ I'm currently looking for internship in Java Web BackEnd.  
-- 🍦 Contributing to Open Source Projects has always been a goal to me.  
-- ⚡ Fun fact: I love Sports, especially Cricket.
+@keyframes move {  
+    0% {  
+        transform: translateX(0);  
+    }  
+    100% {  
+        transform: translateX(300px);  
+    }  
+}
