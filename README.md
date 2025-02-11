@@ -35,7 +35,7 @@
 <br>
 <br>
 <summary>
-  🌱 Looking forward to learn:
+  🌱 Mong đợi được học hỏi::
 </summary>
 <br>
    
@@ -45,7 +45,6 @@
 <br> 
 ---
 
-<details open="">
 <summary>
  📔 GitHub Stats:
 </summary>
