@@ -51,53 +51,9 @@
  📔 GitHub Stats:
 </summary>
 <br>
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mèo Di Chuyển</title>
-    <style>
-        body {
-            background-color: #fce4ec;
-            overflow: hidden;
-        }
-
-        .cat {
-            position: absolute;
-            bottom: 50px;
-            left: 0;
-            width: 100px;
-            transition: transform 0.3s ease-in-out;
-        }
-    </style>
-</head>
-<body>
 
 <img class="cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Mèo chạy">
 
-<script>
-    let cat = document.querySelector(".cat");
-    let position = 0;
-    let direction = 1;
-
-    function moveCat() {
-        position += 5 * direction;
-        cat.style.left = position + "px";
-
-        if (position > window.innerWidth - 100 || position < 0) {
-            direction *= -1;
-            cat.style.transform = direction === 1 ? "scaleX(1)" : "scaleX(-1)";
-        }
-
-        requestAnimationFrame(moveCat);
-    }
-
-    moveCat();
-</script>
-
-</body>
-</html>
 
 ---
 
