@@ -38,7 +38,7 @@
   🌱 Looking forward to learn:
 </summary>
 <br>
-   <br>
+   
 <code><a href="https://angular.io/" target="_blank"><img width="30" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/angular-icon.svg"/></a></code>
 <code><a href="https://reactnative.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
 
